@@ -26,6 +26,8 @@ code {
 .personal-image > img {
   width: 317px;
   height: 317px;
+  padding: 1px;
+  box-sizing: border-box;
   border-radius: 10px 10px 0px 0px;
 }
 
